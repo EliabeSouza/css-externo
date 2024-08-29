@@ -1,0 +1,83 @@
+.elencospfc{
+            width: 500px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: 3px solid black;
+        }
+
+        .nometec{
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+            height: 3vh; 
+            margin: 0;
+        }
+
+        .zubeldia{
+            width: 500px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: 3px solid black;    
+        }
+
+        .spfcgol{
+            width: 500px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: 3px solid black;    
+        }
+
+        .treinadorD {
+            background-color: rgb(250, 250, 250);
+            color: rgb(3, 3, 3);
+            border: 2px solid rgb(12, 12, 12);
+        }
+
+        .lucasskills {
+            width: 500px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: rgb(250, 250, 250);
+            color: rgb(3, 3, 3);
+            border: 2px solid rgb(12, 12, 12);
+        }
+
+        table {
+            width: 80%; 
+            margin: 0 auto; 
+            border-collapse: collapse; 
+        }
+        th, td {
+            border: 1px solid #ddd; /* Adiciona bordas às células */
+            padding: 8px; /* Adiciona preenchimento às células */
+            text-align: left; /* Alinha o texto à esquerda dentro das células */
+        }
+        th {
+            background-color: #f4f4f4; /* Adiciona uma cor de fundo aos cabeçalhos */
+        }
+
+        ul {
+            text-align: center; /* Centraliza os itens dentro do ul */
+            list-style-type: none; /* Remove os marcadores padrão */
+            padding: 0;
+        }
+        li {
+            margin: 0 10px; /* Adiciona espaço entre os itens */
+        }
+
+
+        h1 {
+            text-align: center;
+        }
+
+        
+
+        .ResultadosD {
+            background-color: rgb(250, 250, 250);
+            color: rgb(3, 3, 3);
+            border: 2px solid rgb(12, 12, 12);
+        }
